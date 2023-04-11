@@ -1,1 +1,5 @@
-# Text-Mining-con-Python-Un-enfoque-pr-ctico
+# Text Mining con Python, un enfoque práctico
+
+La analítica de texto, también conocida como minería de texto o text mining, se refiere a un conjunto de técnicas que tienen como finalidad estructurar la información heterogénea presente en los textos para identificar patrones, como el uso de palabras, y extraer nueva información. En otras palabras, se trata de un proceso que permite explorar grandes cantidades de datos no estructurados y transformarlos en conocimiento útil para la toma de decisiones y la mejora de procesos.
+
+Actualmente, Twitter se ha consolidado como una fuente dinámica e ingente de contenidos que resulta de gran importancia para los estudios de Social Media Analytics debido a su popularidad e impacto en la sociedad. Dicha plataforma se ha convertido en la principal fuente de información para analizar la reputación de empresas, productos o personalidades, estudios de impacto de marketing, extracción de opiniones y predicción de tendencias, entre otras aplicaciones. En definitiva, Twitter se ha posicionado como una herramienta clave para obtener información valiosa y tomar decisiones informadas en el ámbito empresarial y social.
